@@ -1,2 +1,37 @@
-# SQL-QUERY-USED-IN-PHP-WITH-WEB-PAGES-CODE
-In this Repository All SQL Query ( Insert-Data , Select-Data, Display-Data , Update-Data ,Delete-Data , From_Date---To_Date--Display , Upload-Image , Display-Image ,Multiple-Radio-Button-Used )  used in PHP And Sum Html tags using PHP ( Login-Form , Registaration-Form ) are Executed in PHP And in JavaScript ( Maps , Image-Slider-Home-Page ).
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/kirankoshtigits/SQL-QUERY-USED-IN-PHP-WITH-WEB-PAGES-CODE/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kirankoshtigits/SQL-QUERY-USED-IN-PHP-WITH-WEB-PAGES-CODE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
